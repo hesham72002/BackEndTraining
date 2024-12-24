@@ -1,12 +1,13 @@
 {
   "name": "back-end-development-and-apis",
   "version": "1.0.0",
+  "author": "Hesham Rajab",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Hesham Rajab",
   "license": "ISC",
   "description": ""
 }
